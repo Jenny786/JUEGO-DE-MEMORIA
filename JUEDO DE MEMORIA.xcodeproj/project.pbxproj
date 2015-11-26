@@ -14,6 +14,7 @@
 		BA5C2DBE1C06B6CC00F50DA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA5C2DBC1C06B6CC00F50DA4 /* LaunchScreen.storyboard */; };
 		BA5C2DC91C06B6CC00F50DA4 /* JUEDO_DE_MEMORIATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5C2DC81C06B6CC00F50DA4 /* JUEDO_DE_MEMORIATests.swift */; };
 		BA5C2DD41C06B6CC00F50DA4 /* JUEDO_DE_MEMORIAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5C2DD31C06B6CC00F50DA4 /* JUEDO_DE_MEMORIAUITests.swift */; };
+		BA5C2DE31C06B98A00F50DA4 /* JuegoDeMemoria.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5C2DE21C06B98A00F50DA4 /* JuegoDeMemoria.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		BA5C2DCF1C06B6CC00F50DA4 /* JUEDO DE MEMORIAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JUEDO DE MEMORIAUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA5C2DD31C06B6CC00F50DA4 /* JUEDO_DE_MEMORIAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JUEDO_DE_MEMORIAUITests.swift; sourceTree = "<group>"; };
 		BA5C2DD51C06B6CC00F50DA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA5C2DE11C06B6E800F50DA4 /* JuegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria.playground; sourceTree = "<group>"; };
+		BA5C2DE21C06B98A00F50DA4 /* JuegoDeMemoria.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegoDeMemoria.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				BA5C2DBA1C06B6CC00F50DA4 /* Assets.xcassets */,
 				BA5C2DBC1C06B6CC00F50DA4 /* LaunchScreen.storyboard */,
 				BA5C2DBF1C06B6CC00F50DA4 /* Info.plist */,
+				BA5C2DE11C06B6E800F50DA4 /* JuegoDeMemoria.playground */,
+				BA5C2DE21C06B98A00F50DA4 /* JuegoDeMemoria.swift */,
 			);
 			path = "JUEDO DE MEMORIA";
 			sourceTree = "<group>";
@@ -257,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA5C2DB61C06B6CC00F50DA4 /* ViewController.swift in Sources */,
+				BA5C2DE31C06B98A00F50DA4 /* JuegoDeMemoria.swift in Sources */,
 				BA5C2DB41C06B6CC00F50DA4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
